@@ -1,0 +1,16 @@
+{
+  "name": "m-api",
+  "version": "1.0.0",
+  "description": "A messaging API intended to be used in the shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luca Joshua Weiß",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
